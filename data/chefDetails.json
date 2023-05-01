@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "rating": 4.5,
+        "yearsOfExperience": 10,
+        "biodata": "John Smith is a classically trained chef with a passion for French cuisine...",
+        "numberOfRecipes": 250,
+        "image": "https://i.ibb.co/z6YWy2H/sdojd.png"
+    },
+    {
+        "id": 2,
+        "name": "Brad Lee",
+        "rating": 4.8,
+        "yearsOfExperience": 7,
+        "biodata": "Brad Lee is a rising star in the culinary world, known for her innovative...",
+        "numberOfRecipes": 150,
+        "image": "https://i.ibb.co/mD2WfwH/sdju.png"
+    },
+    {
+        "id": 3,
+        "name": "Juan Rodriguez",
+        "rating": 4.2,
+        "yearsOfExperience": 15,
+        "biodata": "Juan Rodriguez is a master of Latin American cuisine, with a deep knowledge...",
+        "numberOfRecipes": 300,
+        "image": "https://i.ibb.co/YkNQWC6/sju.png"
+    },
+    {
+        "id": 4,
+        "name": "Tom Anderson",
+        "rating": 4.6,
+        "yearsOfExperience": 12,
+        "biodata": "Tom Anderson is a graduate of the Culinary Institute of America, with a focus on...",
+        "numberOfRecipes": 200,
+        "image": "https://i.ibb.co/Q6w1PLC/dcjk.png"
+    },
+    {
+        "id": 5,
+        "name": "Michael Nguyen",
+        "rating": 4.4,
+        "yearsOfExperience": 8,
+        "biodata": "Michael Nguyen is a self-taught chef who has worked in some of the most...",
+        "numberOfRecipes": 175,
+        "image": "https://i.ibb.co/PGKgyKC/sscuh.png"
+    },
+    {
+        "id": 6,
+        "name": "Jon Wick",
+        "rating": 4.9,
+        "yearsOfExperience": 5,
+        "biodata": "Jon Wick is a Korean-American chef, blending traditional Korean flavors...",
+        "numberOfRecipes": 100,
+        "image": "https://i.ibb.co/hFbT5hB/sdcu.png"
+    }
+]
